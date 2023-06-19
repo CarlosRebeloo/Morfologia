@@ -15,4 +15,4 @@ Em seguida, é aplicada a operação de gradiente morfológico na imagem "j.png"
 
 O código aplica a operação de abertura morfológica na imagem "j_ruido.png" para remover ruídos e objetos pequenos. A operação de fechamento morfológico é aplicada na imagem "j_furos.png" para preencher lacunas e conectar componentes quebrados. Os resultados são armazenados nas variáveis "opening" e "closing", respectivamente.</p>
 
-Por fim, o código exibe as imagens originais e as imagens resultantes das operações morfológicas, permitindo a comparação visual dos efeitos dessas operações.
+Por fim, o código exibe as imagens originais e as resultantes das operações morfológicas, permitindo a comparação visual dos efeitos.
