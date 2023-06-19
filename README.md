@@ -1,17 +1,17 @@
 <h1 align="center">Python Morfologia</h1>
 <h3>Sobre o projeto</h3>
-<p>O projeto consiste em uma aplicação de processamento de imagem utilizando as bibliotecas OpenCV e NumPy. O objetivo é realizar operações morfológicas, como erosão, dilatação, gradiente, abertura e fechamento em imagens em escala de cinza. Sintetizando o assunto as operações morfologicas são técnicas de processamento de imagem que manipulam a forma e a estrutura dos objetos presentes na imagem, utilizando operações de erosão, dilatação, abertura, fechamento, entre outras, para realizar filtragem, segmentação e manipulação de imagens.</p>
+<p>O projeto consiste em uma aplicação de processamento de imagem utilizando as bibliotecas OpenCV e NumPy. O objetivo é realizar operações morfológicas, como erosão, dilatação, gradiente, abertura e fechamento em imagens em escala de cinza. Sintetizando o assunto as operações morfologicas são técnicas de processamento de imagem que manipulam a forma e a estrutura dos objetos presentes na imagem, utilizando operações de erosão, dilatação, abertura, fechamento, entre outras, para realizar filtragem, segmentação e manipulação de imagens. O projeto foi criado na ferramenta Google Colab</p> 
 
-<h3>Funcionalidades:</h3>
+<h3>Utilização</h3>
+<p>Os usuários podem utilizar a aplicação para processar imagens em escala de cinza, aplicando operações morfológicas para modificar a forma e a estrutura dos objetos presentes nas imagens. Os resultados são exibidos em tempo real, permitindo visualizar os efeitos das operações aplicadas.</p>
+
+<h3>Técnicas utilizadas</h3>
 
 - Leitura e exibição de imagens em escala de cinza.
 - Aplicação de operações morfológicas, como erosão e dilatação.
 - Cálculo do gradiente morfológico.
 - Remoção de ruídos e objetos pequenos por meio da abertura morfológica.
 - Preenchimento de lacunas em objetos e conexão de componentes quebrados por meio do fechamento morfológico.
-
-<h3>Utilização</h3>
-<p>Os usuários podem utilizar a aplicação para processar imagens em escala de cinza, aplicando operações morfológicas para modificar a forma e a estrutura dos objetos presentes nas imagens. Os resultados são exibidos em tempo real, permitindo visualizar os efeitos das operações aplicadas.</p>
 
 <h3>Como foi feito:</h3>
 <p>O código inicia importando as bibliotecas necessárias para a aplicação de operações morfológicas em imagens, como a biblioteca cv2 da OpenCV e a biblioteca NumPy. Além disso, é importado o módulo "cv2_imshow" para exibir as imagens no ambiente do Google Colab.
