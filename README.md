@@ -1,4 +1,4 @@
-<h1 align="center">Python Morfologia</h1>
+<h1 align="center">Morfologia</h1>
 <h3>Sobre o projeto</h3>
 <p>O projeto consiste em uma aplicação de processamento de imagem utilizando as bibliotecas OpenCV e NumPy. O objetivo é realizar operações morfológicas, como erosão, dilatação, gradiente, abertura e fechamento em imagens em escala de cinza. Sintetizando o assunto as operações morfologicas são técnicas de processamento de imagem que manipulam a forma e a estrutura dos objetos presentes na imagem, utilizando operações de erosão, dilatação, abertura, fechamento, entre outras, para realizar filtragem, segmentação e manipulação de imagens. O projeto foi criado na ferramenta Google Colab</p> 
 
